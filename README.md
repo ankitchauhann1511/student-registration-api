@@ -211,7 +211,4 @@ Through this project, I strengthened my understanding of:
 Ankit Chauhan
 Java Backend Developer |
 
-Technical Interests: Java, Spring Boot, Microservices, CI/CD, REST APIs, SQL, and Backend Development.
-## 📄 License
-
-This project is intended for educational and learning purposes. Add a license file if you plan to distribute the project under a specific open-source license.
+Technical Interests: Java, Spring Boot, REST APIs, SQL, Microservices, Kafka, CI/CD, and Backend Development.
